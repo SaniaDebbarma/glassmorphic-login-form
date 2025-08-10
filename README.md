@@ -16,7 +16,7 @@ A sleek, responsive, and modern login page built with HTML and CSS using the tre
 
 ## 📸 Preview
 
-![Preview]( background.jpg) 
+![Preview]( screenshot_login.jpg) 
 
 ## 📁 Files Included
 
