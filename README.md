@@ -16,17 +16,17 @@ A sleek, responsive, and modern login page built with HTML and CSS using the tre
 
 ## 📸 Preview
 
-![Preview]( png) 
+![Preview]( background.jpg) 
 
 ## 📁 Files Included
 
 - `index.html` – HTML structure for the login form
 - `style.css` – Glassmorphism-inspired CSS styling
-- `background.jpg` – (You can add your own background image)
-- `preview.png` – (Optional: Add a screenshot of the final design)
+- `background.jpg` – 
+
 
 ## 🚀 How to Use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/glassmorphic-login-form.git
+   git clone https:https://github.com/SaniaDebbarma/glassmorphic-login-form
